@@ -155,6 +155,9 @@ header .logo {
 	font-size: 2rem;
 	color: white;
 }
+.section-2-header p {
+	font-size: 1.3rem;
+}
 .section-2-header > * {
 	margin: 0.3rem;
 }
@@ -169,8 +172,9 @@ header .logo {
 .section-2-content h4 {
 	color: white;
 }
+
 .section-2-content .items {
-   	border: 1px solid white;
+	border: 1px solid white;
 	border-radius: 3px;
 }
 .items * {
@@ -191,7 +195,7 @@ header .logo {
 }
 .section-3-header {
 	text-align: center;
-	font-size: 1.6rem;
+	font-size: 1.3rem;
 	font-weight: lighter;
 	letter-spacing: -1px;
 	color: rgb(36, 33, 33);
@@ -200,7 +204,6 @@ header .logo {
 	margin: 0.9rem;
 }
 .section-3-header h2 {
-	font-family: Karla;
 	font-weight: 100;
 }
 .section-3-header p {
@@ -210,6 +213,9 @@ header .logo {
 	display: flex;
 	justify-content: space-evenly;
 	align-items: center;
+}
+.section-3-content p {
+	font-size: 1.3rem;
 }
 .left-content {
 	height: 100%;
@@ -255,7 +261,6 @@ header .logo {
 .section-4-header {
 	text-align: center;
 	font-size: 1.6rem;
-	font-family: Karla;
 	margin: 2rem;
 }
 .section-4-header * {
