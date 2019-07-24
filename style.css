@@ -75,8 +75,7 @@ header .logo {
 }
 .section-1 .content p {
 	color: whitesmoke;
-	/* font-family: Fira Sans; */
-	font-family: Open Sans;
+	font-family: Fira Sans;
 	font-size: 1.5rem;
 	margin: 0;
 }
