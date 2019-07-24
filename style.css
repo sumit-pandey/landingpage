@@ -170,7 +170,8 @@ header .logo {
 	color: white;
 }
 .section-2-content .items {
-	border-left: 2px solid white;
+   	border: 1px solid white;
+	border-radius: 3px;
 }
 .items * {
 	margin: 5px;
