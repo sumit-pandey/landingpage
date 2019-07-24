@@ -216,6 +216,9 @@ header .logo {
 	flex-flow: column;
 	justify-content: space-around;
 }
+.left-content p {
+	font-size: 1.1rem;
+}
 .features-btn {
 	width: 200px;
 	padding: 8px 5px;
@@ -343,7 +346,7 @@ footer {
 
 /* design for mobile */
 
-@media all and (max-width: 400px) {
+@media all and (max-width: 430px) {
 	.section-1 header {
 		background: rgb(245, 241, 241);
 		margin: 0;
@@ -369,6 +372,9 @@ footer {
 	}
 	.section-1-footer {
 		flex-flow: column wrap;
+	}
+	.section-1-footer div h4 {
+		margin: 15px 0;
 	}
 	/* section 1 ends */
 	.customer-logos {
@@ -434,6 +440,7 @@ footer {
 	}
 	.left-content p {
 		margin: 0;
+		font-size: .89rem;
 	}
 	.right-content img {
 		display: block;
