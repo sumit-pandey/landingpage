@@ -391,7 +391,7 @@ footer {
 		margin-top: 15px;
 	}
 	.section-2-header p {
-		font-size: 0.8rem;
+		font-size: 0.89rem;
 		font-weight: 200;
 	}
 	.section-2-content {
@@ -408,6 +408,9 @@ footer {
 		color: white;
 		font-size: 1rem;
 	}
+	.section-2-content .items p {
+		font-size: .9rem;
+	}
 	/* section 2 ends */
 	/* section 3 beigns */
 	.section-3 {
@@ -422,7 +425,7 @@ footer {
 		margin: 5px;
 	}
 	.section-3-header p {
-		font-size: 0.8rem;
+		font-size: 1rem;
 		letter-spacing: 1px;
 	}
 	.section-3-content {
@@ -452,7 +455,7 @@ footer {
 		font-size: 1rem;
 		padding: 5px 10px;
 		position: relative;
-		left: 15%;
+		left: 20%;
 	}
 	.section-4 {
 		padding: 0 1rem;
